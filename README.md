@@ -123,3 +123,4 @@ node src/index.js
 
 **Complex Rate Limiting:** Implementing rate limiting involves more complexity, especially when handling bursts of emails and ensuring compliance with provider limits without dropping requests.
 
+[![Watch the video](https://raw.githubusercontent.com/keerthinannepamula1/Mock-Email-Service/blob/main/local_testing_Demo%20-%20COMPRESS.mp4)
